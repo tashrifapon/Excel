@@ -16,5 +16,7 @@
 * ❔ It might seem pointless to use this and find a calculator online, but the one I use does not show expected fat loss over a course of 12 weeks
 * 💪 You might want to gain weight, so just enter your calories as you would for the purpose of losing weight. Please, keep in mind that this was meant to visualize fat loss.
 
+<p>B.T. Dubs: Fill information in cells highlighted in light green and bronze (activity level is a drop-down list)</p>
+
 <p>I plan on building a webpage for this too</p>
 <p>Best to your wallet's health and your health health!</p>
