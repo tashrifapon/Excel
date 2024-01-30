@@ -10,7 +10,7 @@
 
 <p>If you find yourself struggling to navigate this Excel file, keep on the lookout for a webpage on my personal website with the functionality of the file</p>
 
-<p>Workout Plan (I want to focus on calisthenics, you can change to whatever program you want</p>
+<p>Workout Plan (I want to focus on calisthenics, you can change to whatever program you want)</p>
 
 * 🥩 The Calorie calculator is self-explanatory and is easy to navigate
 * ❔ It might seem pointless to use this and find a calculator online, but the one I use does not show expected fat loss over a course of 12 weeks
