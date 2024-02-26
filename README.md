@@ -1,5 +1,5 @@
 <p>These are Excel files for download</p>
-<p>Financials (please keep in mind this was tailored for me, adjust to your liking/predictions)</p>
+<p>HalfOfWealthIsSaving (please keep in mind this was tailored for me, adjust to your liking/predictions)</p>
 
 * The name of the sheets are self-explanatory; if you have questions, you can contact me (info @ my profile)
 * 🚗 The first one is savings (first 5 years) based on salary ranges and includes time to save up for a car and then have that payment
